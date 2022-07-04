@@ -10,13 +10,6 @@ ____
 
 🧿 ꜰɪʀꜱᴛ ꜱɪɢɴ ᴏʀ ꜱɪɢɴᴜᴘ ᴛᴏ ʜᴇʀᴏᴋᴜ ᴀɴᴅ ɢɪᴛʜᴜʙ.
 
-🧿 ɢɪᴠᴇ ꜱᴛᴀʀ & ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ.
-
-- 🔺 ʜᴏᴡ ᴛᴏ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ 🔻.
-
-<p><a href="https://github.com/pr1v4teer/hrk-v2r"> <img src="https://telegra.ph/file/732d61f3da9076a924fb9.jpg" /></a></p>
-Click on fork and star buttons like this image☝️.
-
 ___
 - ⚠️ᴘʟᴢ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ⚠️.
 ___
@@ -31,7 +24,7 @@ ___
    - 🔺ʀᴇᴍᴇᴍʙᴇʀ,
    - 🔻ᴛʜᴇ ʀᴇɢɪᴏɴ ʏᴏᴜ ꜱᴇʟᴇᴄᴛᴇᴅ ɪꜱ ʏᴏᴜʀ ᴠ2ʀᴀʏ ᴀᴄᴄᴏᴜɴᴛ ꜱᴇᴠᴇʀ.
 
-🧿 ɢᴇɴᴇʀᴀᴛᴇ ᴠ2ʀᴀʏ ᴜᴜɪᴅ ᴜꜱɪɴɢ ᴛʜɪꜱ ᴡᴇʙꜱɪᴛᴇ.https://www.uuidgenerator.net/
+🧿 ɢᴇɴᴇʀᴀᴛᴇ ᴠ2ʀᴀʏ ᴜᴜɪᴅ ᴜꜱɪɴɢ https://www.uuidgenerator.net/
 
 ______
 # ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ
@@ -48,7 +41,7 @@ ______
 
 - ɴᴇᴛᴡᴏʀᴋ: ᴡꜱ
 
-# software downlode 
+# software download 
 
 Download link - [v2rayN-proxyfire](https://drive.google.com/file/d/1RDbpKUIqYdE2aMjdm5QkRDhIetx2GiyV/view?usp=sharing)
 _________
