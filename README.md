@@ -4,8 +4,6 @@
 
 🧿 ʏᴏᴜ ᴄᴀɴ ᴏɴʟʏ ꜱᴇʟᴇᴄᴛ ᴛʜᴇ ᴜꜱ ᴏʀ ᴇᴜʀᴏᴘᴇ ʀᴇɢɪᴏɴ ᴛᴏ ʙᴜɪʟᴅ ʏᴏᴜʀ ꜱᴇʀᴠᴇʀ.
 
- ☝ you can use it ins free internet and unblock sit 
-
 ____
 
 # ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ.
@@ -16,7 +14,7 @@ ____
 
 - 🔺 ʜᴏᴡ ᴛᴏ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ 🔻.
 
-<p><a href="https://github.com/sbatrow/heroku-xray-vpn-server"> <img src="https://telegra.ph/file/732d61f3da9076a924fb9.jpg" /></a></p>
+<p><a href="https://github.com/pr1v4teer/hrk-v2r"> <img src="https://telegra.ph/file/732d61f3da9076a924fb9.jpg" /></a></p>
 Click on fork and star buttons like this image☝️.
 
 ___
@@ -27,7 +25,7 @@ ___
    - [ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ] ʙᴜᴛᴛᴏɴ👇👇
 
 
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/sbatrow/heroku-xray-vpn-server"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/pr1v4teer/hrk-v2r"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 🧿 ᴄʜᴏᴏꜱᴇ ᴛʜᴇ ʀᴇɢɪᴏɴ ᴛʜᴀᴛ ᴡᴏʀᴋꜱ ʙᴇꜱᴛ ꜰᴏʀ ʏᴏᴜ.
    - 🔺ʀᴇᴍᴇᴍʙᴇʀ,
@@ -40,7 +38,7 @@ ______
 
 - ᴅᴇꜰᴀᴜʟᴛ ᴘʀᴏᴛᴏᴄᴏʟ : ᴠʟᴇꜱꜱ
 
-- ᴜᴜɪᴅ: *ʏᴏᴜ ᴀᴅᴅᴇᴅ ᴜᴜɪᴅ*
+- ᴜᴜɪᴅ: *ʏᴏᴜr ᴀᴅᴅᴇᴅ ᴜᴜɪᴅ*
 
 - ᴀᴅᴅʀᴇꜱꜱ: ʏᴏᴜʀ ᴀᴘᴘɴᴀᴍᴇ.ʜᴇʀᴏᴋᴜᴀᴘᴘ.ᴄᴏᴍ
 
@@ -52,7 +50,7 @@ ______
 
 # software downlode 
 
-Downlode link - [v2rayN-proxyfire](https://drive.google.com/file/d/1RDbpKUIqYdE2aMjdm5QkRDhIetx2GiyV/view?usp=sharing)
+Download link - [v2rayN-proxyfire](https://drive.google.com/file/d/1RDbpKUIqYdE2aMjdm5QkRDhIetx2GiyV/view?usp=sharing)
 _________
 ### CREDIT
 Thanks To:
